@@ -82,4 +82,8 @@ int main() {
 ## Disclaimer
 
 This program is provided as-is without any warranty. Use at your own risk.
-NotYourAnonOne!
+
+## License
+This project is licensed under the MIT License.
+
+© Copyright [2023] NotYourAnonOne
