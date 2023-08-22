@@ -84,6 +84,7 @@ int main() {
 This program is provided as-is without any warranty. Use at your own risk.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 © Copyright [2023] NotYourAnonOne
+
